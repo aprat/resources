@@ -1,0 +1,19 @@
+# Swift resources
+
+- http://learn-swift.co
+- https://medium.com/swift-programming/keep-your-swift-models-clean-ea7eb314d49d
+- http://www.learnswift.tips
+- https://medium.com/swift-programming/15-swift-ios-open-source-projects-you-cannot-ignore-6bd4ac37d7dd
+- https://thatthinginswift.com
+- http://realm.io/news/chris-eidhof-micro-libraries-swift/
+- http://www.appcoda.com/chat-app-swift-tutorial/
+- http://www.appcoda.com/learnswift/index.html
+- http://www.atomicbird.com/blog/ios-app-extension-tips
+- https://github.com/IBM-Swift/Kitura
+- http://www.appcoda.com/unit-testing-swift
+- https://medium.com/cobe-mobile/unit-testing-in-swift-part-1-the-philosophy-9bc85ed5001b#.cd64aaskx
+- https://swifting.io/blog/2016/03/29/11-swiftlint
+- http://perfect.org/
+- https://github.com/necolt/Swifton
+- https://github.com/jakarmy/swift-summary
+- https://jarvis.wanari.net/jsonobjectconverter
