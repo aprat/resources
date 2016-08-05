@@ -19,3 +19,4 @@
 - https://jarvis.wanari.net/jsonobjectconverter
 - https://github.com/andyyhope/Blog_SyntaxCheatCodes
 - http://merowing.info/2016/07/logging-in-swift/
+- http://szulctomasz.com/how-do-I-build-a-network-layer/
