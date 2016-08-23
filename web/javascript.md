@@ -5,6 +5,7 @@
 - http://tutorialzine.com/2015/05/15-awesome-and-free-javascript-books/?ref=heydesigner-weekly37
 - https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/
 - https://www.javascripting.com
+- http://code.tutsplus.com/tutorials/parsing-a-csv-file-with-javascript--cms-25626
 
 Javascript Frameworks:
 
