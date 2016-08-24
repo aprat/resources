@@ -5,3 +5,6 @@
 - https://medium.com/@sergii/best-practices-for-android-developer-productivity-cfd6ffba804c#.dmodxh1y8
 - http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/
 - http://katade.com/buenas-practicas-android/
+- http://blog.octo.com/en/develop-secured-android-application/
+- http://karumi.github.io/AndroidAudit/
+- http://code.tutsplus.com/articles/how-to-secure-an-android-app--cms-26385
