@@ -7,3 +7,4 @@
 - http://www.thecave.com/2014/09/16/using-xcodebuild-to-export-a-ipa-from-an-archive/
 - http://code.tutsplus.com/tutorials/localizing-an-ios-application-in-xcode-6--cms-23502
 - https://theswiftdev.com/2016/08/17/xcode-8-extensions/
+- https://swifting.io/blog/2016/08/22/23-notifications-in-ios-10/
