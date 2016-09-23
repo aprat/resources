@@ -20,3 +20,4 @@
 - https://github.com/andyyhope/Blog_SyntaxCheatCodes
 - http://merowing.info/2016/07/logging-in-swift/
 - http://szulctomasz.com/how-do-I-build-a-network-layer/
+- https://medium.com/ios-os-x-development/xcode-a-better-way-to-deal-with-storyboards-8b6a8b504c06#.vpo3883qx
