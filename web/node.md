@@ -7,3 +7,4 @@
 - https://www.codeschool.com/courses/real-time-web-with-node-js
 - http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431
 - http://code.tutsplus.com/tutorials/nodejs-step-by-step-introduction--net-19448
+- https://github.com/FormidableLabs/nodejs-dashboard
