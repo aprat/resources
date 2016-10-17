@@ -9,3 +9,4 @@
 - http://vishnurajeevan.com/2016/02/13/Using-Kotlin-Extensions-for-Rx-ifying/
 - https://medium.com/@CodingDoug/kotlin-android-a-brass-tacks-experiment-part-1-3e5028491bcc#.e0dbqeaxb
 - https://teamtreehouse.com/library/kotlin-for-java-developers
+- https://github.com/dbacinski/Design-Patterns-In-Kotlin/
