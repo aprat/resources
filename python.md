@@ -9,3 +9,4 @@
 - https://code.tutsplus.com/tutorials/building-restful-apis-with-flask-diy--cms-26625
 - https://code.tutsplus.com/series/building-restful-apis-with-flask--cms-1068
 - http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/
+- https://scotch.io/tutorials/build-a-rest-api-with-django-a-test-driven-approach-part-1
