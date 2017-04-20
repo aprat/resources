@@ -4,3 +4,4 @@
 - http://stablekernel.com/blog/avoiding-complex-view-controller/
 - http://ikennd.ac/blog/2015/01/secret-diary-of-a-side-project-part-2/
 - https://medium.com/badoo-developers/ios-location-tracking-aac4e2323629#.t3lwspby5
+- https://code.tutsplus.com/articles/securing-communications-on-ios--cms-28529
