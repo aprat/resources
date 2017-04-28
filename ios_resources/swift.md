@@ -22,3 +22,4 @@
 - http://szulctomasz.com/how-do-I-build-a-network-layer/
 - https://medium.com/ios-os-x-development/xcode-a-better-way-to-deal-with-storyboards-8b6a8b504c06#.vpo3883qx
 - http://blog.stablekernel.com/how-to-keep-your-style-code-clean-in-swift
+- https://swift.org/source-compatibility/#current-list-of-projects
