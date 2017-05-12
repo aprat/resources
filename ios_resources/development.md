@@ -9,3 +9,4 @@
 - https://theswiftdev.com/2016/08/17/xcode-8-extensions/
 - https://swifting.io/blog/2016/08/22/23-notifications-in-ios-10/
 - http://nshint.io/blog/2015/08/17/autolayout-breakpoints/
+- https://hackernoon.com/a-cleaner-way-to-organize-your-ios-debug-development-and-release-distributions-6b5eb6a48356
