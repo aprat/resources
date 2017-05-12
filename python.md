@@ -14,3 +14,4 @@
 - https://hackernoon.com/all-you-need-to-know-about-prefetching-in-django-f9068ebe1e60
 - https://realpython.com/blog/python/test-driven-development-of-a-django-restful-api/
 - http://celerytaskschecklist.com
+- https://rock-it.pl/how-to-profile-django-views/
