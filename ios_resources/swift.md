@@ -24,3 +24,4 @@
 - http://blog.stablekernel.com/how-to-keep-your-style-code-clean-in-swift
 - https://swift.org/source-compatibility/#current-list-of-projects
 - https://medium.com/@azamsharp/segue-extensions-in-ios-cbea1a88458a
+- https://medium.com/@matthew_healy/loading-images-in-ios-without-dependencies-aff1555dbf1e
