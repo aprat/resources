@@ -11,3 +11,5 @@
 - https://teamtreehouse.com/library/kotlin-for-java-developers
 - https://github.com/dbacinski/Design-Patterns-In-Kotlin/
 - https://code.tutsplus.com/series/coding-android-apps-in-kotlin--cms-1119
+- https://learnxinyminutes.com/docs/kotlin/
+- https://github.com/MindorksOpenSource/from-java-to-kotlin
