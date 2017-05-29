@@ -25,3 +25,5 @@
 - https://swift.org/source-compatibility/#current-list-of-projects
 - https://medium.com/@azamsharp/segue-extensions-in-ios-cbea1a88458a
 - https://medium.com/@matthew_healy/loading-images-in-ios-without-dependencies-aff1555dbf1e
+- https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120
+- https://itunes.apple.com/us/book/the-swift-programming-language-swift-3-1/id881256329
