@@ -28,3 +28,4 @@
 - https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120
 - https://itunes.apple.com/us/book/the-swift-programming-language-swift-3-1/id881256329
 - https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11
+- http://ryanipete.com/blog/ios/swift/objective-c/uidebugginginformationoverlay/
