@@ -15,3 +15,4 @@
 - https://realpython.com/blog/python/test-driven-development-of-a-django-restful-api/
 - http://celerytaskschecklist.com
 - https://rock-it.pl/how-to-profile-django-views/
+- https://medium.com/wemake-services/managing-djangos-settings-e2b7f496120d
