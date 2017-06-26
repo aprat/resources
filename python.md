@@ -16,3 +16,4 @@
 - http://celerytaskschecklist.com
 - https://rock-it.pl/how-to-profile-django-views/
 - https://medium.com/wemake-services/managing-djangos-settings-e2b7f496120d
+- https://thenewstack.io/properly-monitor-elasticsearch/
