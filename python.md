@@ -20,3 +20,6 @@
 - https://julien.danjou.info/blog/python-logging-easy-with-daiquiri
 - http://dizballanze.com/django-project-optimization-part-1/
 - https://blog.lerner.co.il/five-python-function-parameters-know-use/
+- https://medium.com/capital-one-developers/bashing-the-bash-replacing-shell-scripts-with-python-d8d201bc0989
+- https://dbader.org/blog/python-check-if-file-exists
+- https://tomassetti.me/parsing-in-python/
