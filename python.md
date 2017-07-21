@@ -19,3 +19,4 @@
 - https://thenewstack.io/properly-monitor-elasticsearch/
 - https://julien.danjou.info/blog/python-logging-easy-with-daiquiri
 - http://dizballanze.com/django-project-optimization-part-1/
+- https://blog.lerner.co.il/five-python-function-parameters-know-use/
