@@ -10,3 +10,5 @@
 - https://swifting.io/blog/2016/08/22/23-notifications-in-ios-10/
 - http://nshint.io/blog/2015/08/17/autolayout-breakpoints/
 - https://hackernoon.com/a-cleaner-way-to-organize-your-ios-debug-development-and-release-distributions-6b5eb6a48356
+- https://medium.com/seyhunakyurek/10-new-ios-libraries-which-you-definitely-have-to-try-at-2017-dc1a9cf4441e
+- https://medium.com/flawless-app-stories/simulator-on-steroids-c12774ca6b
