@@ -12,3 +12,5 @@
 - https://hackernoon.com/a-cleaner-way-to-organize-your-ios-debug-development-and-release-distributions-6b5eb6a48356
 - https://medium.com/seyhunakyurek/10-new-ios-libraries-which-you-definitely-have-to-try-at-2017-dc1a9cf4441e
 - https://medium.com/flawless-app-stories/simulator-on-steroids-c12774ca6b
+- https://www.raywenderlich.com/158803/sourcery-tutorial-generating-swift-code-ios
+
