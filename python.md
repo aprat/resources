@@ -23,3 +23,4 @@
 - https://medium.com/capital-one-developers/bashing-the-bash-replacing-shell-scripts-with-python-d8d201bc0989
 - https://dbader.org/blog/python-check-if-file-exists
 - https://tomassetti.me/parsing-in-python/
+- https://savvyapps.com/blog/how-to-build-restful-api-mobile-app
