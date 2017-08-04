@@ -24,3 +24,9 @@
 - https://dbader.org/blog/python-check-if-file-exists
 - https://tomassetti.me/parsing-in-python/
 - https://savvyapps.com/blog/how-to-build-restful-api-mobile-app
+- http://knoxxs.github.io/programming/python/2016/02/10/python-decorators/
+- http://knoxxs.github.io/python/scheduler/2016/02/29/job-scheduler-in-python/
+- http://knoxxs.github.io/python/setup/2016/02/29/python-dependency-management/
+- https://medium.com/@ktruong008/building-an-api-with-django-rest-framework-and-class-based-views-75b369b30396
+- https://hackernoon.com/5-ways-to-make-django-admin-safer-eb7753698ac8
+- https://www.fullstackpython.com/blog/generating-static-websites-pelican-jinja2-markdown.html
