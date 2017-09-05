@@ -32,3 +32,4 @@
 - https://www.fullstackpython.com/blog/generating-static-websites-pelican-jinja2-markdown.html
 - https://blog.braham.biz/getting-started-with-translating-a-django-application-d85ec34e505
 - https://opensource.com/article/17/5/understanding-datetime-python-primer
+- https://www.ibm.com/developerworks/aix/library/au-pythocli/
