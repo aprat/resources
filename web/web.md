@@ -10,6 +10,7 @@
 - https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/
 - https://github.com/kamranahmedse/developer-roadmap
 - https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41
+- https://alistapart.com/article/yes-that-web-project-should-be-a-pwa
 
 Web styleguide:
 
