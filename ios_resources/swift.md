@@ -69,3 +69,4 @@
 - https://www.thedroidsonroids.com/blog/ios/rxswift-by-examples-1-the-basics/
 - https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters
 - https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present/
+- https://useyourloaf.com/blog/xcode-9-vector-images/
