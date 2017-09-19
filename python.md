@@ -33,3 +33,4 @@
 - https://blog.braham.biz/getting-started-with-translating-a-django-application-d85ec34e505
 - https://opensource.com/article/17/5/understanding-datetime-python-primer
 - https://www.ibm.com/developerworks/aix/library/au-pythocli/
+- https://www.caktusgroup.com/blog/2017/05/01/building-custom-block-template-tag/
