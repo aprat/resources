@@ -36,3 +36,4 @@
 - https://www.caktusgroup.com/blog/2017/05/01/building-custom-block-template-tag/
 - https://chatbotslife.com/remote-controlling-macos-with-a-python-telegram-bot-d656d2e00226
 - https://opensource.com/article/17/9/python-logging
+- https://medium.com/towards-data-science/using-scrapy-to-build-your-own-dataset-64ea2d7d4673
