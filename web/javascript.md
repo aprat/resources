@@ -7,6 +7,7 @@
 - https://www.javascripting.com
 - http://code.tutsplus.com/tutorials/parsing-a-csv-file-with-javascript--cms-25626
 - https://medium.freecodecamp.com/how-to-get-the-most-out-of-the-javascript-console-b57ca9db3e6d
+- https://code.tutsplus.com/tutorials/6-things-that-make-yarn-the-best-javascript-package-manager--cms-29465
 
 Javascript Frameworks:
 
