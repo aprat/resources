@@ -13,3 +13,4 @@
 - https://code.tutsplus.com/series/coding-android-apps-in-kotlin--cms-1119
 - https://learnxinyminutes.com/docs/kotlin/
 - https://github.com/MindorksOpenSource/from-java-to-kotlin
+- https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-1-f976483f7bd6
