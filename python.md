@@ -39,3 +39,4 @@
 - https://medium.com/towards-data-science/using-scrapy-to-build-your-own-dataset-64ea2d7d4673
 - http://stackabuse.com/command-line-arguments-in-python/
 - https://code.tutsplus.com/articles/understanding-args-and-kwargs-in-python--cms-29494
+- https://lincolnloop.com/blog/disabling-error-emails-django/
