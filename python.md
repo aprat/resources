@@ -42,3 +42,4 @@
 - https://lincolnloop.com/blog/disabling-error-emails-django/
 - https://github.com/hchasestevens/posts/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb
 - https://medium.com/@Afroshok/django-test-driven-development-with-pytest-63cb99e6fff2
+- http://codingismycraft.com/index.php/2017/10/04/adding-descriptors-to-your-python-arsenal/
