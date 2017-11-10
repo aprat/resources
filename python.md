@@ -1,5 +1,7 @@
 # Python resources
 
+- https://pybee.org/
+- https://kivy.org/
 - https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8#.wyluo6sd2
 - http://code.tutsplus.com/tutorials/debugging-in-python--cms-25822
 - http://code.tutsplus.com/tutorials/write-professional-unit-tests-in-python--cms-25835
