@@ -1,7 +1,5 @@
 # Python resources
 
-- https://pybee.org/
-- https://kivy.org/
 - https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8#.wyluo6sd2
 - http://code.tutsplus.com/tutorials/debugging-in-python--cms-25822
 - http://code.tutsplus.com/tutorials/write-professional-unit-tests-in-python--cms-25835
@@ -45,3 +43,10 @@
 - https://github.com/hchasestevens/posts/blob/master/notebooks/the-decorators-they-wont-tell-you-about.ipynb
 - https://medium.com/@Afroshok/django-test-driven-development-with-pytest-63cb99e6fff2
 - http://codingismycraft.com/index.php/2017/10/04/adding-descriptors-to-your-python-arsenal/
+
+## Python GUI Frameworks
+- https://pybee.org/
+- https://kivy.org/
+- https://wiki.python.org/moin/TkInter
+- https://www.pygame.org/
+- https://www.riverbankcomputing.com/software/pyqt/intro
