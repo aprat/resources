@@ -44,6 +44,8 @@
 - https://medium.com/@Afroshok/django-test-driven-development-with-pytest-63cb99e6fff2
 - http://codingismycraft.com/index.php/2017/10/04/adding-descriptors-to-your-python-arsenal/
 - https://code.tutsplus.com/articles/how-to-index-and-query-data-with-haystack-and-elasticsearch-in-python--cms-29492
+- https://tanpham.org/python/python-resourses/
+- http://notesbyanerd.com/2017/12/29/essential-reads-for-any-python-programmer/
 
 ## Python GUI Frameworks
 - https://pybee.org/
