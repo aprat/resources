@@ -48,6 +48,7 @@
 - http://notesbyanerd.com/2017/12/29/essential-reads-for-any-python-programmer/
 - https://code.tutsplus.com/tutorials/sending-emails-in-python-with-smtp--cms-29975
 - https://code.tutsplus.com/tutorials/how-to-download-files-in-python--cms-30099
+- https://code.tutsplus.com/series/building-games-with-python-3-and-pygame--cms-1245
 
 ## Python GUI Frameworks
 - https://pybee.org/
