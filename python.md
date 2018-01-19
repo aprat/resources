@@ -49,6 +49,7 @@
 - https://code.tutsplus.com/tutorials/sending-emails-in-python-with-smtp--cms-29975
 - https://code.tutsplus.com/tutorials/how-to-download-files-in-python--cms-30099
 - https://code.tutsplus.com/series/building-games-with-python-3-and-pygame--cms-1245
+- https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html
 
 ## Python GUI Frameworks
 - https://pybee.org/
