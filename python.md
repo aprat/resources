@@ -71,3 +71,7 @@
 - https://github.com/python-mode/python-mode#documentation
 - https://github.com/scrooloose/nerdtree
 - https://www.tutorialspoint.com/python/python_if_else.htm
+- https://stackoverflow.com/questions/9172802/setting-up-vim-for-python
+- https://stackoverflow.com/questions/492387/indentationerror-unindent-does-not-match-any-outer-indentation-level
+- https://stackoverflow.com/questions/29791570/vim-pymode-dont-use-actual-env
+- https://stackoverflow.com/questions/34875169/how-do-i-follow-python-pep8-regarding-line-breaks-and-how-important-is-it
