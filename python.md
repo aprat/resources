@@ -50,6 +50,7 @@
 - https://code.tutsplus.com/tutorials/how-to-download-files-in-python--cms-30099
 - https://code.tutsplus.com/series/building-games-with-python-3-and-pygame--cms-1245
 - https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html
+- https://medium.com/@hakibenita/9-django-tips-for-working-with-databases-beba787ed7d3
 
 ## Python GUI Frameworks
 - https://pybee.org/
