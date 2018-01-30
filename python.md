@@ -58,3 +58,16 @@
 - https://wiki.python.org/moin/TkInter
 - https://www.pygame.org/
 - https://www.riverbankcomputing.com/software/pyqt/intro
+
+## Python with VIM
+- http://coderoncode.com/tools/2017/04/16/vim-the-perfect-ide.html
+- http://joedicastro.com/vim-como-editor-de-codigo-python.html
+- http://liuchengxu.org/posts/use-vim-as-a-python-ide/
+- http://vim.wikia.com/wiki/Backspace_and_delete_problems
+- http://vimdoc.sourceforge.net/htmldoc/scroll.html
+- https://benmccormick.org/2013/11/25/a-look-at-ack/
+- https://benmccormick.org/2014/07/21/learning-vim-in-2014-getting-more-from-vim-with-plugins/
+- https://github.com/nvie/vim-flake8
+- https://github.com/python-mode/python-mode#documentation
+- https://github.com/scrooloose/nerdtree
+- https://www.tutorialspoint.com/python/python_if_else.htm
