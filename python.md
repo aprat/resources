@@ -52,6 +52,7 @@
 - https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html
 - https://medium.com/@hakibenita/9-django-tips-for-working-with-databases-beba787ed7d3
 - https://medium.com/@ageitgey/python-3-quick-tip-the-easy-way-to-deal-with-file-paths-on-windows-mac-and-linux-11a072b58d5f
+- https://code.tutsplus.com/tutorials/how-to-cache-using-redis-in-django-applications--cms-30178
 
 ## Python GUI Frameworks
 - https://pybee.org/
