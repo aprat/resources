@@ -57,6 +57,7 @@
 - https://www.caktusgroup.com/blog/2017/05/01/building-custom-block-template-tag/
 - https://www.fullstackpython.com/blog/generating-static-websites-pelican-jinja2-markdown.html
 - https://www.ibm.com/developerworks/aix/library/au-pythocli/
+- https://veekaybee.github.io/2017/09/26/python-packaging/
 
 ## Python GUI Frameworks
 - https://pybee.org/
