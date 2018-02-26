@@ -58,6 +58,7 @@
 - https://www.fullstackpython.com/blog/generating-static-websites-pelican-jinja2-markdown.html
 - https://www.ibm.com/developerworks/aix/library/au-pythocli/
 - https://veekaybee.github.io/2017/09/26/python-packaging/
+- https://medium.freecodecamp.org/learning-to-test-with-python-997ace2d8abe
 
 ## Python GUI Frameworks
 - https://pybee.org/
