@@ -59,6 +59,7 @@
 - https://www.ibm.com/developerworks/aix/library/au-pythocli/
 - https://veekaybee.github.io/2017/09/26/python-packaging/
 - https://medium.freecodecamp.org/learning-to-test-with-python-997ace2d8abe
+- https://simpleisbetterthancomplex.com/tips/2018/02/10/django-tip-22-designing-better-models.html
 
 ## Python GUI Frameworks
 - https://pybee.org/
