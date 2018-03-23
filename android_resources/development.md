@@ -6,3 +6,4 @@
 - https://code.tutsplus.com/tutorials/how-to-solve-androids-most-common-error-messages--cms-28706
 - https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-1-eb0f6b970fd
 - https://medium.com/@loutry/guide-to-constraintlayout-407cd87bc013
+- http://www.develapps.com/es/noticias/automatizacion-de-releases-en-android
