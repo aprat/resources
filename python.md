@@ -61,6 +61,7 @@
 - https://medium.freecodecamp.org/learning-to-test-with-python-997ace2d8abe
 - https://simpleisbetterthancomplex.com/tips/2018/02/10/django-tip-22-designing-better-models.html
 - https://code.tutsplus.com/tutorials/how-to-authenticate-with-jwt-in-django--cms-30460
+- https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08
 
 ## Python GUI Frameworks
 - https://pybee.org/
