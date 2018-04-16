@@ -7,3 +7,4 @@
 - https://stackoverflow.com/questions/5400806/what-are-the-most-used-vim-commands-keypresses/5400978#5400978
 - https://stackoverflow.com/questions/235839/indent-multiple-lines-quickly-in-vi
 - https://stackoverflow.com/questions/1676632/whats-a-quick-way-to-comment-uncomment-lines-in-vim
+- https://medium.freecodecamp.org/tmux-in-practice-series-of-posts-ae34f16cfab0
