@@ -6,3 +6,4 @@
 - https://useyourloaf.com/blog/xcode-9-vector-images/
 - https://ayogo.com/blog/ios11-viewport/
 - https://designcode.io/ios11-iphone-x
+- https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7
