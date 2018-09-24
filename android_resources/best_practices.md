@@ -9,3 +9,4 @@
 - http://karumi.github.io/AndroidAudit/
 - http://code.tutsplus.com/articles/how-to-secure-an-android-app--cms-26385
 - https://blog.hypertrack.io/2016/12/01/scheduling-tasks-in-android-made-easy/
+- https://code.tutsplus.com/tutorials/securing-communications-on-android--cms-31596
