@@ -64,6 +64,7 @@
 - https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08
 - https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939
 - https://realpython.com/python-debugging-pdb/
+- https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c
 
 ## Python GUI Frameworks
 - https://pybee.org/
