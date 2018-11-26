@@ -10,6 +10,7 @@
 - http://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984
 - http://youmightnotneedjs.com
 - http://maintainablecss.com
+- https://medium.freecodecamp.org/how-to-center-things-with-style-in-css-dc87b7542689
 
 CSS animations:
 
