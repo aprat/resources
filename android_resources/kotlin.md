@@ -14,3 +14,4 @@
 - https://learnxinyminutes.com/docs/kotlin/
 - https://github.com/MindorksOpenSource/from-java-to-kotlin
 - https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-1-f976483f7bd6
+- https://hackernoon.com/https-medium-com-rohitss-android-app-architectures-mvp-with-kotlin-f255b236010a
