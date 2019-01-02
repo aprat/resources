@@ -66,6 +66,7 @@
 - https://realpython.com/python-debugging-pdb/
 - https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c
 - https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2
+- https://realpython.com/location-based-app-with-geodjango-tutorial/
 
 ## Python GUI Frameworks
 - https://pybee.org/
