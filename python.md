@@ -67,6 +67,7 @@
 - https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c
 - https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2
 - https://realpython.com/location-based-app-with-geodjango-tutorial/
+- https://towardsdatascience.com/how-list-comprehensions-can-help-your-code-look-better-and-run-smoother-3cf8f87172ae
 
 ## Python GUI Frameworks
 - https://pybee.org/
