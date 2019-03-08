@@ -70,3 +70,4 @@
 - https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters
 - https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present/
 - https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/
+- https://mecid.github.io/2019/03/06/dependency-injection-in-swift-with-protocols/
