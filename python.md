@@ -69,6 +69,7 @@
 - https://realpython.com/location-based-app-with-geodjango-tutorial/
 - https://towardsdatascience.com/how-list-comprehensions-can-help-your-code-look-better-and-run-smoother-3cf8f87172ae
 - https://kite.com/blog/python/python-string-formatting
+- https://realpython.com/pdf-python/?__s=fsqwzwu5if2ubssdmzqq
 
 ## Python GUI Frameworks
 - https://pybee.org/
