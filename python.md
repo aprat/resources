@@ -70,6 +70,7 @@
 - https://towardsdatascience.com/how-list-comprehensions-can-help-your-code-look-better-and-run-smoother-3cf8f87172ae
 - https://kite.com/blog/python/python-string-formatting
 - https://realpython.com/pdf-python/?__s=fsqwzwu5if2ubssdmzqq
+- https://dev.to/mkdev/fundamentals-of-front-end-django-b2k
 
 ## Python GUI Frameworks
 - https://pybee.org/
