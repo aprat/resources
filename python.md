@@ -71,6 +71,9 @@
 - https://kite.com/blog/python/python-string-formatting
 - https://realpython.com/pdf-python/?__s=fsqwzwu5if2ubssdmzqq
 - https://dev.to/mkdev/fundamentals-of-front-end-django-b2k
+- https://www.pythoncircle.com/post/707/how-to-compress-the-uploaded-image-before-storing-it-in-django/
+- https://gto76.github.io/python-cheatsheet/
+- https://www.pythoncircle.com/post/706/how-to-upload-an-image-file-in-django/
 
 ## Python GUI Frameworks
 - https://pybee.org/
