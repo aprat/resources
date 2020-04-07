@@ -74,6 +74,9 @@
 - https://www.pythoncircle.com/post/707/how-to-compress-the-uploaded-image-before-storing-it-in-django/
 - https://gto76.github.io/python-cheatsheet/
 - https://www.pythoncircle.com/post/706/how-to-upload-an-image-file-in-django/
+- https://codesource.io/build-a-crud-application-vue-and-django/
+- https://www.scrapingbee.com/blog/web-scraping-with-scrapy/
+- https://dev.to/mustafaanaskh99/convert-any-pdf-file-into-an-audio-book-with-python-1gk4
 
 ## Python GUI Frameworks
 - https://pybee.org/
